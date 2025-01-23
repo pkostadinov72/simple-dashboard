@@ -1,0 +1,33 @@
+Trought this project i have used only 2 AI chat models:
+
+    - Claude 3.5
+    - ChatGpt o1-preview
+
+In order to make it easier for both parties, I kept all my prompts in a single ChatGpt conversation.
+
+    - Here is the link for it: https://chatgpt.com/share/672bf371-8cd0-8006-b514-4b6d98cebf98
+
+    Note: If you have any issues with the link, please contact me.
+
+I have mainly used the Claude 3.5 for the design of the dashboard component and its cards.
+
+    - Since claude doens't have the share chat feature here are the prompts I've used:
+
+    - First Prompt: 
+        
+        "Building a Dynamic AI-Powered Dashboard with Blockchain Data Integration
+        Core Task (Junior Level): Build a Dynamic Dashboard Component
+        Objective: Create a dashboard with cards displaying information like user details, a recent activity feed, and stats (e.g., site visits, and task completion).
+        Features: Basic interactivity, such as expanding/collapsing cards, filtering the activity feed, and a form for updating user information. 
+
+        give me the expandable cards component with a separate component for chart and make one huge dashboard component. using tailwind utilize dark theme"
+
+        Thoughts: The code that was produced was not considered best practices, the ui on the other side looked simple yet good looking.
+
+
+    - Second Prompt: 
+
+        "the first card should be user details, with the option to edit the details"
+
+        Thoughts: Here the model gave me a mock data for the components so i could visualize them better.
+
