@@ -1,6 +1,6 @@
 # Simple Dashboard
 
-A brief description of your React project powered by Vite.
+Dashboard with Charts, Theme Support, Search and Filter functionality. 
 
 ## Table of Contents
 
